@@ -22,7 +22,7 @@ android {
             useSupportLibrary = true
         }
 
-        buildConfigField("String", "BOOKS_API_KEY", "\"AIzaSyCMLIKntvN7LuOy3k-Jj1tBoaJ4E-9Lg_Y\"")
+        buildConfigField("String", "BOOKS_API_KEY", "YOUR_API_KEY")
 
     }
 
